@@ -16,9 +16,9 @@
 
 > **18+ Year Healthcare KAM** turned **AI Automation Expert** | Open to MNC Opportunities
 
-- 🏥 **18+ years** in Pharma / Healthcare (Abbott · Piramal · Alkem) — **APEX Club Winner**
-- 🤖 Building **AI + Automation** systems using n8n, Make, Python & LLMs
-- 🎓 **4× Be10X Certified** (IIT Kharagpur) — AI Tools, Automation, GenAI
+- 🏥 **18+ years** in Pharma / Healthcare (Abbott · Piramal · Alkem) — **APEX Club 2017 (Abbott)**
+- 🤖 Building **AI + Automation** systems using n8n, Make, Google Gemini, Telegram, Python & LLMs
+- 🎓 **6 Be10X certificates** (AI Career Accelerator Program, 2026) — AI Tools, Automation, Data Analytics, Products & Solutions, Capstone
 - 📍 Based in **Kanpur, Uttar Pradesh, India**
 - 💼 **Open to MNC opportunities** in AI, Healthcare Tech, Automation
 - 📧 mukku.m13@gmail.com
@@ -30,7 +30,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
@@ -69,29 +70,31 @@
 
 ## 🏆 Achievements & Certifications
 
-| Certification | Issuer | Year |
+| Certification | Issuer | Issued |
 |---|---|---|
-| AI Tools Mastery | Be10X (IIT Kharagpur) | 2025 |
-| Automation Expert | Be10X (IIT Kharagpur) | 2025 |
-| GenAI for Business | Be10X (IIT Kharagpur) | 2025 |
-| Prompt Engineering | Be10X (IIT Kharagpur) | 2025 |
-| APEX Club Winner | Abbott Healthcare | 2020 |
+| Certificate of Mastery - Capstone Project (real-world problem framing, AI system design & workflow automation, end-to-end solution deployment) | Be10X - AI Career Accelerator Program | Oct 2026 |
+| Certified AI Products and Solutions Professional (product building, real-time voice agents & MCP, AI image/video generation) | Be10X - AI Career Accelerator Program | Oct 2026 |
+| Certified AI Systems and Automation Specialist (workflow automation with Make, AI agents with n8n) | Be10X - AI Career Accelerator Program | Sep 2026 |
+| Certified AI-Powered Data Analytics Specialist (Claude Cowork & Claude Code, data analysis with AI) | Be10X - AI Career Accelerator Program | Sep 2026 |
+| Certified AI Office and Productivity Specialist (prompt engineering, AI-assisted research) | Be10X - AI Career Accelerator Program | Aug 2026 |
+| AI Tools and ChatGPT Workshop | Be10X | Jun 2026 |
+| APEX Club - Abbott Healthcare | Abbott Healthcare Pvt. Ltd. | 2017 |
 
 ---
 
 ## 💼 Professional Journey
 
 ```
-18+ Years Healthcare KAM
-├── Abbott Healthcare        → APEX Club Winner (Top 1%)
-├── Piramal Healthcare       → Senior KAM
-└── Alkem Laboratories       → Territory Business Manager
+18+ Years Healthcare Sales & Key Account Management
+├── Abbott Healthcare        → Key Account Manager / SME / Deputy Regional Business Manager (2010-2019)
+├── Piramal Healthcare       → Senior Medical Executive / Marketing Executive (2007-2010)
+├── Alkem Ulticare Division  → Marketing Executive / Trainee Business Officer (2004-2007)
+└── Shantha Biotechnics      → Business Development Officer (2001-2004)
 
-Now pivoting to → AI + Automation + Healthcare Tech
+Now building → AI Workflow Automation + Healthcare Process Automation
 ```
 
 ---
-
 ## 🤝 Let's Connect
 
 - 🔗 **LinkedIn**: [in/mukesh-saxena1977](https://www.linkedin.com/in/mukesh-saxena1977/)
