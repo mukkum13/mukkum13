@@ -17,7 +17,7 @@
 > **18+ Year Healthcare KAM** turned **AI Automation Expert** | Open to MNC Opportunities
 
 - 🏥 **18+ years** in Pharma / Healthcare (Abbott · Piramal · Alkem) — **APEX Club 2017 (Abbott)**
-- 🤖 Building **AI + Automation** systems using n8n, Make, Google Gemini, Telegram, Python & LLMs
+- 🤖 Building **AI + Automation** systems using n8n, Make, Google Gemini, Telegram, Python, PL/SQL & LLMs
 - 🎓 **6 Be10X certificates** (AI Career Accelerator Program, 2026) — AI Tools, Automation, Data Analytics, Products & Solutions, Capstone
 - 📍 Based in **Kanpur, Uttar Pradesh, India**
 - 💼 **Open to MNC opportunities** in AI, Healthcare Tech, Automation
@@ -29,6 +29,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat-square&logo=n8n&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
